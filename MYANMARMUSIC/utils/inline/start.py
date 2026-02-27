@@ -48,18 +48,18 @@ def private_panel(_):
         ],
         [
             InlineKeyboardButton(
-                text=_["S_B_11"],
-                callback_data="about_page"
+                text="POWER CHAT",
+                url="https://t.me/powerful_youth2025"
             ),
             InlineKeyboardButton(
-                text=_["S_B_12"],
-                callback_data="owner_page"
+                text="POWER CHANNEL",
+                url="https://t.me/typicgamestore3"
             )
         ],
         [
             InlineKeyboardButton(
-                text=_["E_X_1"],
-                callback_data="fork_repo"
+                text="𝑷𝒐𝒘𝒆𝒓𝒇𝒖𝒍 𝑴𝒖𝒔𝒊𝒄🎧",
+                url="https://t.me/just_now2025"
             ),
             InlineKeyboardButton(text=_["S_B_5"], user_id=config.OWNER_ID),
         ],
